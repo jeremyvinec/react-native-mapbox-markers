@@ -1,0 +1,1156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4352693856,
+                    47.2683753967,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de l'Islette",
+                "address": "9 route de Langeais<br />37190 AZAY-LE-RIDEAU",
+                "zip_code": 37190,
+                "town": "AZAY-LE-RIDEAU",
+                "phone": [
+                    "02 47 45 40 10"
+                ],
+                "mail": [
+                    "contact@chateaudelislette.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS00037/default.jpg"
+            },
+            "id": "PCUCEN037FS00037"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7840506434,
+                    47.4114494324,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Musée de la Vigne et du Vin du Château Moncontour",
+                "address": "Château de Moncontour<br />37210 VOUVRAY",
+                "zip_code": 37210,
+                "town": "VOUVRAY",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000207/default.jpg"
+            },
+            "id": "PCUCEN0370000207"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5314828753,
+                    47.3458175659,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Grottes Pétrifiantes de Savonnières-Villandry",
+                "address": "61 rue des Grottes Pétrifiantes<br />37510 SAVONNIERES",
+                "zip_code": 37510,
+                "town": "SAVONNIERES",
+                "phone": [
+                    "02 47 50 00 09"
+                ],
+                "mail": [
+                    "infos@grottes-savonnieres.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000148/default.jpg"
+            },
+            "id": "PCUCEN0370000148"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.78251791,
+                    47.3034934998,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Eolienne \"Bollée\" d'Esvres",
+                "address": "19 La Huaudière<br />37320 ESVRES",
+                "zip_code": 37320,
+                "town": "ESVRES",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_uncategorized.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037V503FQD/default.jpg"
+            },
+            "id": "PCUCEN037V503FQD"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8356788754,
+                    47.2681274414,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Abbaye et Tour Saint Paul",
+                "address": "37320 CORMERY",
+                "zip_code": 37320,
+                "town": "CORMERY",
+                "phone": [
+                    "02 47 43 40 66"
+                ],
+                "mail": [
+                    "mairie@cormery.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000066/default.jpg"
+            },
+            "id": "PCUCEN0370000066"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.750477314,
+                    47.2864456177,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Arboretum de la Martinière",
+                "address": "87 rue du lavoir<br />37250 VEIGNÉ",
+                "zip_code": 37250,
+                "town": "VEIGNÉ",
+                "phone": [],
+                "mail": [
+                    "asso.arboretum@yahoo.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_uncategorized.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCENCEN9991871/default.jpg"
+            },
+            "id": "PCUCENCEN9991871"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4670095146,
+                    47.2602729797,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château d'Azay-le-Rideau",
+                "address": "19 rue Balzac<br />37190 AZAY-LE-RIDEAU",
+                "zip_code": 37190,
+                "town": "AZAY-LE-RIDEAU",
+                "phone": [
+                    "02 47 45 42 04",
+                    "02 47 45 68 61"
+                ],
+                "mail": [
+                    "chateau.azay-le-rideau@monuments-nationaux.fr",
+                    "resa.azay@monuments-nationaux.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000017/default.jpg"
+            },
+            "id": "PCUCEN0370000017"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6888926029,
+                    47.3891220093,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Le petit train de Tours",
+                "address": "Boulevard Heurteloup<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [],
+                "mail": [
+                    "resa.tga@gmail.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS0000N/default.jpg"
+            },
+            "id": "PCUCEN037FS0000N"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6956031919,
+                    47.3957862854,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Cathédrale Saint-Gatien",
+                "address": "1, rue Racine<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 70 21 00"
+                ],
+                "mail": [
+                    "webmaster@paroisse-cathedrale-tours.cef.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000157/default.jpg"
+            },
+            "id": "PCUCEN0370000157"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8863654733,
+                    47.4584732056,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de Valmer - Vins et Jardins",
+                "address": "Château de Valmer<br />37210 CHANCAY",
+                "zip_code": 37210,
+                "town": "CHANCAY",
+                "phone": [
+                    "02 47 52 93 12"
+                ],
+                "mail": [
+                    "jardins@chateaudevalmer.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000038/default.jpg"
+            },
+            "id": "PCUCEN0370000038"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.684705019,
+                    47.3953781128,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Hôtel Goüin",
+                "address": "25 rue du Commerce<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 31 47 31"
+                ],
+                "mail": [
+                    "cmercier@departement-touraine.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://www.caravel-app.ovh/ressources/not_available.png"
+            },
+            "id": "PCUCEN0370000161"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6513134241,
+                    47.3877258301,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Prieuré Saint-Cosme, demeure de Ronsard",
+                "address": "Rue Ronsard<br />37520 LA RICHE",
+                "zip_code": 37520,
+                "town": "LA RICHE",
+                "phone": [
+                    "02 47 37 32 70"
+                ],
+                "mail": [
+                    "demeureronsard@departement-touraine.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000118/default.jpg"
+            },
+            "id": "PCUCEN0370000118"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5008447766,
+                    47.2627754211,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Vallée troglodytique des Goupillières",
+                "address": "Les Goupillières<br />37190 AZAY-LE-RIDEAU",
+                "zip_code": 37190,
+                "town": "AZAY-LE-RIDEAU",
+                "phone": [
+                    "02 47 45 46 89"
+                ],
+                "mail": [
+                    "contact@troglodytedesgoupillieres.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS0000D/default.jpg"
+            },
+            "id": "PCUCEN037FS0000D"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8299034834,
+                    47.4450531006,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de Jallanges",
+                "address": "Vernou-sur-Brenne<br />37210 VOUVRAY",
+                "zip_code": 37210,
+                "town": "VOUVRAY",
+                "phone": [
+                    "02 47 52 06 66"
+                ],
+                "mail": [
+                    "chateaudejallanges@gmail.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000175/default.jpg"
+            },
+            "id": "PCUCEN0370000175"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4620217085,
+                    47.3490791321,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de Cinq-Mars et Parc",
+                "address": "Rue du Château<br />37130 CINQ-MARS-LA-PILE",
+                "zip_code": 37130,
+                "town": "CINQ-MARS-LA-PILE",
+                "phone": [
+                    "02 47 96 40 49"
+                ],
+                "mail": [
+                    "chateau-cinq-mars@wanadoo.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000063/default.jpg"
+            },
+            "id": "PCUCEN0370000063"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.694078207,
+                    47.3912734985,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Visite de la ville de Tours",
+                "address": "78 rue Bernard Palissy<br />37042 TOURS",
+                "zip_code": 37042,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 70 37 34"
+                ],
+                "mail": [
+                    "info@tours-tourisme.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCENCEN9991673/default.jpg"
+            },
+            "id": "PCUCENCEN9991673"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4816400111,
+                    47.6028251648,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Abbaye de la Clarté-Dieu",
+                "address": "37370 SAINT-PATERNE-RACAN",
+                "zip_code": 37370,
+                "town": "SAINT-PATERNE-RACAN",
+                "phone": [
+                    "02 47 29 39 91"
+                ],
+                "mail": [
+                    "julitamoussette@yahoo.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000140/default.jpg"
+            },
+            "id": "PCUCEN0370000140"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6843280792,
+                    47.3849830627,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Jardin des Prébendes d'Oé",
+                "address": "Rue Roger Salengro<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS0004L/default.jpg"
+            },
+            "id": "PCUCEN037FS0004L"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.694009006,
+                    47.3945960999,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Musée des Beaux-Arts et son jardin",
+                "address": "Ancien palais des archevêques<br />18 place François Sicard<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 05 68 82"
+                ],
+                "mail": [
+                    "culturembaaccueil@ville-tours.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://www.caravel-app.ovh/ressources/not_available.png"
+            },
+            "id": "PCUCEN0370000160"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9087693095,
+                    47.5909919739,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Musée du Cuir et de la Tannerie",
+                "address": "105 ter rue de la République<br />37110 CHATEAU-RENAULT",
+                "zip_code": 37110,
+                "town": "CHATEAU-RENAULT",
+                "phone": [
+                    "02 47 56 03 59"
+                ],
+                "mail": [
+                    "infos@museeducuir.org"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000040/default.jpg"
+            },
+            "id": "PCUCEN0370000040"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.614697814,
+                    47.108543396,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Les Passerelles",
+                "address": "77 avenue du Général de Gaulle<br />37800 SAINTE-MAURE-DE-TOURAINE",
+                "zip_code": 37800,
+                "town": "SAINTE-MAURE-DE-TOURAINE",
+                "phone": [
+                    "02 47 65 66 20"
+                ],
+                "mail": [
+                    "tourisme.sainte.maure@gmail.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS000AE/default.jpg"
+            },
+            "id": "PCUCEN037FS000AE"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4793922007,
+                    47.6188774109,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Église de Saint-Christophe",
+                "address": "Rue du Vieux Château<br />37370 SAINT-CHRISTOPHE-SUR-LE-NAIS",
+                "zip_code": 37370,
+                "town": "SAINT-CHRISTOPHE-SUR-LE-NAIS",
+                "phone": [
+                    "02 47 29 24 19"
+                ],
+                "mail": [
+                    "mairie.stchristophe@wanadoo.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://www.caravel-app.ovh/ressources/not_available.png"
+            },
+            "id": "PCUCEN0370000135"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6217604876,
+                    47.1133232117,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Circuits découverte de la ville",
+                "address": "16 bis place du Maréchal Leclerc<br />37800 SAINTE-MAURE-DE-TOURAINE",
+                "zip_code": 37800,
+                "town": "SAINTE-MAURE-DE-TOURAINE",
+                "phone": [
+                    "02 47 65 66 20"
+                ],
+                "mail": [
+                    "mairie@sainte-maure-de-touraine.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_uncategorized.png",
+                "picture": "http://www.caravel-app.ovh/ressources/not_available.png"
+            },
+            "id": "PCUCEN037FS000AF"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6661984921,
+                    47.3688163757,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "La Gloriette - Tours Métropole Val de Loire",
+                "address": "61 avenue Pont de Cher<br />37200 TOURS",
+                "zip_code": 37200,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 76 10 31"
+                ],
+                "mail": [
+                    "gloriette-animations@ville-tours.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS0004O/default.jpg"
+            },
+            "id": "PCUCEN037FS0004O"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6830294728,
+                    47.3928146362,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Basilique Saint-Martin",
+                "address": "Rue Descartes<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 31 17 44"
+                ],
+                "mail": [
+                    "basiliquesaintmartin@wanadoo.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000156/default.jpg"
+            },
+            "id": "PCUCEN0370000156"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8455057144,
+                    47.3913459778,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Maison de la Loire",
+                "address": "60 quai Albert Baillet<br />37270 MONTLOUIS-SUR-LOIRE",
+                "zip_code": 37270,
+                "town": "MONTLOUIS-SUR-LOIRE",
+                "phone": [
+                    "02 47 50 97 52"
+                ],
+                "mail": [
+                    "fabiennebarbault@maisondelaloire37.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS0000C/default.jpg"
+            },
+            "id": "PCUCEN037FS0000C"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9092100263,
+                    47.5919075012,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Atelier de serrurerie Mercier",
+                "address": "Passage des Deux Empereurs<br />37110 CHATEAU-RENAULT",
+                "zip_code": 37110,
+                "town": "CHATEAU-RENAULT",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_uncategorized.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000198/default.jpg"
+            },
+            "id": "PCUCEN0370000198"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8276244998,
+                    47.3320007324,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de Leugny",
+                "address": "BP 7<br />37270 AZAY-SUR-CHER",
+                "zip_code": 37270,
+                "town": "AZAY-SUR-CHER",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://www.caravel-app.ovh/ressources/not_available.png"
+            },
+            "id": "PCUCEN037FS0000H"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5124092102,
+                    47.3408927917,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château et Jardins de Villandry",
+                "address": "3 rue Principale<br />37510 VILLANDRY",
+                "zip_code": 37510,
+                "town": "VILLANDRY",
+                "phone": [
+                    "02 47 50 02 09"
+                ],
+                "mail": [
+                    "info@chateauvillandry.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000177/default.jpg"
+            },
+            "id": "PCUCEN0370000177"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.486409992,
+                    47.1480255127,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Village de Crissay-sur-Manse",
+                "address": "37220 CRISSAY-SUR-MANSE",
+                "zip_code": 37220,
+                "town": "CRISSAY-SUR-MANSE",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037V504USA/default.jpg"
+            },
+            "id": "PCUCEN037V504USA"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5428609848,
+                    47.2435188293,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Musée Balzac, château de Saché",
+                "address": "rue du Château<br />37190 SACHE",
+                "zip_code": 37190,
+                "town": "SACHE",
+                "phone": [
+                    "02 47 26 86 50"
+                ],
+                "mail": [
+                    "museebalzac@departement-touraine.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000130/default.jpg"
+            },
+            "id": "PCUCEN0370000130"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7130475044,
+                    47.2854499817,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Forteresse de Montbazon",
+                "address": "12 rue du Château<br />37250 MONTBAZON",
+                "zip_code": 37250,
+                "town": "MONTBAZON",
+                "phone": [
+                    "02 47 34 34 10"
+                ],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000212/default.jpg"
+            },
+            "id": "PCUCEN0370000212"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4949592948,
+                    47.221862793,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Espace Culturel Osier Vannerie",
+                "address": "7 place de la Mairie<br />37190 VILLAINES-LES-ROCHERS",
+                "zip_code": 37190,
+                "town": "VILLAINES-LES-ROCHERS",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000176/default.jpg"
+            },
+            "id": "PCUCEN0370000176"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6666469574,
+                    47.3867874146,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Jardin Botanique",
+                "address": "35 Boulevard Tonnellé<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 21 62 67"
+                ],
+                "mail": [
+                    "parcs-jardins@ville-tours.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS0004K/default.jpg"
+            },
+            "id": "PCUCEN037FS0004K"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7456229925,
+                    47.4414215088,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Grange de Meslay",
+                "address": "1 Route de Meslay<br />37210 PARCAY-MESLAY",
+                "zip_code": 37210,
+                "town": "PARCAY-MESLAY",
+                "phone": [
+                    "02 47 29 19 29"
+                ],
+                "mail": [
+                    "lefebvre@meslay.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000110/default.jpg"
+            },
+            "id": "PCUCEN0370000110"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4343653917,
+                    47.3051986694,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de Fontenay",
+                "address": "5, Fontenay<br />Route de Villandry - D7<br />37130 LIGNIERES-DE-TOURAINE",
+                "zip_code": 37130,
+                "town": "LIGNIERES-DE-TOURAINE",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000266/default.jpg"
+            },
+            "id": "PCUCEN0370000266"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8365738988,
+                    47.3690109253,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de la Bourdaisière",
+                "address": "25 rue de la Bourdaisière<br />37270 MONTLOUIS-SUR-LOIRE",
+                "zip_code": 37270,
+                "town": "MONTLOUIS-SUR-LOIRE",
+                "phone": [
+                    "02 47 45 16 31"
+                ],
+                "mail": [
+                    "contact@chateaulabourdaisiere.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037FS0000B/default.jpg"
+            },
+            "id": "PCUCEN037FS0000B"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6839143038,
+                    47.3946037292,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Muséum d'Histoire Naturelle",
+                "address": "3 rue du Président Merville<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 21 68 08"
+                ],
+                "mail": [
+                    "museum@ville-tours.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000167/default.jpg"
+            },
+            "id": "PCUCEN0370000167"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8941059113,
+                    47.3408050537,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de Nitray",
+                "address": "37270 ATHEE-SUR-CHER",
+                "zip_code": 37270,
+                "town": "ATHEE-SUR-CHER",
+                "phone": [
+                    "02 47 50 29 74"
+                ],
+                "mail": [
+                    "contact@visit-chateau.com"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000012/default.jpg"
+            },
+            "id": "PCUCEN0370000012"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7366718054,
+                    47.4087562561,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Chapelle Saint-Georges",
+                "address": "23 rue Saint Georges<br />37210 ROCHECORBON",
+                "zip_code": 37210,
+                "town": "ROCHECORBON",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000125/default.jpg"
+            },
+            "id": "PCUCEN0370000125"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6952500343,
+                    47.3957633972,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Cloître de la Psalette",
+                "address": "7 rue de la Psalette<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 74 45 68 61"
+                ],
+                "mail": [
+                    "resa.azay@monuments-nationaux.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000197/default.jpg"
+            },
+            "id": "PCUCEN0370000197"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6897966266,
+                    47.3832740784,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Musée du Compagnonnage",
+                "address": "Cloître St Julien - abbaye Saint Julien<br />1 square Prosper-Mérimée.<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 21 62 20"
+                ],
+                "mail": [
+                    "museecompagnonnage@ville-tours.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000163/default.jpg"
+            },
+            "id": "PCUCEN0370000163"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6938195825,
+                    47.3972892761,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Château de Tours",
+                "address": "25 avenue André Malraux<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 21 61 95",
+                    "02 47 70 88 46"
+                ],
+                "mail": [
+                    "de@ville-tours.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000166/default.jpg"
+            },
+            "id": "PCUCEN0370000166"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6642115116,
+                    47.2968025208,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Domaine de Candé",
+                "address": "Route du Ripault<br />37260 MONTS",
+                "zip_code": 37260,
+                "town": "MONTS",
+                "phone": [],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_parcs.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN0370000213/default.jpg"
+            },
+            "id": "PCUCEN0370000213"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7865772247,
+                    47.1601219177,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Visite guidée du village du Louroux",
+                "address": "Mairie du Louroux<br />37240 LE LOUROUX",
+                "zip_code": 37240,
+                "town": "LE LOUROUX",
+                "phone": [
+                    "06 43 56 20 93"
+                ],
+                "mail": [],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_monument.png",
+                "picture": "http://preprod.caravel-app.ovh/ressources/sites/PCUCEN037V504G4A/default.jpg"
+            },
+            "id": "PCUCEN037V504G4A"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6854257584,
+                    47.3956794739,
+                    3.5
+                ]
+            },
+            "properties": {
+                "name": "Centre de Création Contemporaine Olivier Debré CCC OD",
+                "address": "Jardin François 1er<br />37000 TOURS",
+                "zip_code": 37000,
+                "town": "TOURS",
+                "phone": [
+                    "02 47 66 50 00"
+                ],
+                "mail": [
+                    "reservation@cccod.fr"
+                ],
+                "marker": "http://www.caravel-app.ovh/ressources/pictos/marker/map_musee.png",
+                "picture": "http://www.caravel-app.ovh/ressources/not_available.png"
+            },
+            "id": "PCUCEN037V505FI5"
+        }
+    ]
+}
